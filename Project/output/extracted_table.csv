@@ -1,0 +1,14 @@
+Extracted_Text
+Shut Down Date 2020-01-01 2018-01-01
+Failure Type 1 SSH-Net 4.65 1.87 5.60 2.32
+Avg Brier (%) | NFG 4.78 1.91 5.82 2.40
+DeepHit 5.24 2.61 6.43 3.20
+Failure Type 2. SSH-Net 9.71 4.38 10.36 4.62
+Avg Brier (%) NFG 9.90 4.46 10.76 4.79
+DeepHit 13.98 9.68 13.70 9.55
+Failure Type 1 SSH-Net 82.17 81.46 80.19 81.11
+Avg AUC (%) NFG 79.80 77.29 75.85 73.91
+DeepHit 79.39 78.40 76.92 77.54
+Failure Type 2. SSH-Net 78.10 77.07 77.31 79.14
+Avg AUC (%) NFG 77.48 76.38 75.51 77.20
+DeepHit 70.24 74.64
