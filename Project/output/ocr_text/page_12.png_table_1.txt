@@ -1,0 +1,2 @@
+Failure Type 1 Censor Rate | 84.02 % 89.32 % 93.85% 97.42%
+Failure Type 2 Censor Rate | 62.37 % 70.53% 81.49 % 92.35 %

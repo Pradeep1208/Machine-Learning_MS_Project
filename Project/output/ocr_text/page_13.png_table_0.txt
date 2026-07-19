@@ -1,0 +1,4 @@
+Neural Network | Batch Size Optimizer Learning Rate Epochs Early Stop
+SSH-Net 100 AdamW le-3 100 10
+NFG 100 Adam {le—3,le—4} 200 3
+DeepHit 100 Adam le-4 500 5

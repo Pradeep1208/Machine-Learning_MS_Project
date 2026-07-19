@@ -1,0 +1,8 @@
+Failure Type 1 SSH-Net 4.65 3.20 1.87 0.77
+Avg Brier (%) NFG 4.78 3.28 1.91 0.79
+Failure Type 2 SSH-Net 9.71 7.07 4.38 1.85
+Avg Brier (%) NFG 9.90 7.19 4.46 1.88
+Failure Type 1 SSH-Net 82.17 82.39 81.46 82.21
+Avg Concordance (%) = NFG 79.80 79.87 77.29 70.55
+Failure Type 2 SSH-Net 78.10 78.42 77.07 74.12
+Avg Concordance (%) = NFG 77.48 78.18 76.38 73.07
